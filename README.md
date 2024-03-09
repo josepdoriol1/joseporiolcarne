@@ -1,6 +1,4 @@
-## Presentation
-
-Hello, my name is Josep Oriol Carné, and I'm a Software Engineer with extensive experience in the FinTech and banking sectors. I'm deeply passionate about algorithmic trading and machine learning.
+Hello, my name is **Josep Oriol Carné**, and I'm a Software Engineer with extensive experience in the FinTech and banking sectors. I'm deeply passionate about algorithmic trading and machine learning.
 
 I share my insights on genetic programming, software development and randomness in the blog:
 
